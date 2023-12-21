@@ -1,0 +1,13 @@
+##### Core scientific packages
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+opencv-python
+opencv-contrib-python
+scikit-image
+natsort
+pydot

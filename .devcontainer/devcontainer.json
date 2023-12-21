@@ -1,0 +1,15 @@
+{
+	"name": "dnn-course-2024-1",
+	"build": {
+		"dockerfile": "Dockerfile",
+        "context": ".."
+	},
+    "remoteUser": "fabio",
+	"workspaceMount": "source=/home/fabio/Documentos/vscode/dnn-course-2024-1,target=/workspace,type=bind,consistency=cached",	
+	"workspaceFolder": "/workspace",
+	"runArgs": ["--runtime=nvidia"],			
+	"mounts": [
+		"source=projectname-bashhistory,target=/commandhistory,type=volume"				
+	  ],
+	"forwardPorts": [8888]
+}
