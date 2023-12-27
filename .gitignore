@@ -34,8 +34,8 @@ noop.txt
 00_course_folder/time_series/**/**.mp4
 # Configurações locais
 ############
-.vscode/
-.devcontainer/
+**/.vscode/**
+**/.devcontainer/**
 
 # Packages #
 ############
