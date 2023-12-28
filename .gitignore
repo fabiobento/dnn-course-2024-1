@@ -36,6 +36,10 @@ noop.txt
 ############
 **/.vscode/**
 **/.devcontainer/**
+# Modelos salvos
+############
+**/saved_model/**
+
 
 # Packages #
 ############
