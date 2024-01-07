@@ -1,0 +1,7 @@
+Descida do gradiente
+
+No laboratório opcional, você verá uma revisão do algoritmo de gradiente descendente e como implementá-lo no código.
+
+Você também verá um gráfico que mostra como o custo diminui à medida que mais iterações são treinadas e um gráfico de contorno que mostra como o custo se aproxima do mínimo global à medida que o gradient descent encontra valores cada vez melhores para os parâmetros w e b.
+
+00_course_folder/ml_intro/class_01/Laboratórios/C1_W1_Lab04_Cost_function_Soln.ipynb

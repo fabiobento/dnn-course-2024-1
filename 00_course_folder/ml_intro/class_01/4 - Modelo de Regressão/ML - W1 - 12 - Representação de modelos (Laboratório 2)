@@ -1,0 +1,6 @@
+Representação de modelos
+
+Neste laboratório, você pode ver como um modelo de regressão linear é definido em código e pode ver gráficos que mostram como um modelo se ajusta bem a alguns dados, considerando as opções de w e b. Você também pode experimentar valores diferentes de w e b para ver se isso melhora o ajuste aos dados.
+
+
+00_course_folder/ml_intro/class_01/Laboratórios/C1_W1_Lab02_Model_Representation_Soln.ipynb

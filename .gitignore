@@ -31,7 +31,7 @@ noop.txt
 *.docx
 # Vídeos de slides
 ############
-00_course_folder/time_series/**/**.mp4
+00_course_folder/**/**/**.mp4
 # Configurações locais
 ############
 **/.vscode/**

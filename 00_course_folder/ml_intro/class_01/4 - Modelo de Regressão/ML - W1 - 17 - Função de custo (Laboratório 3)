@@ -1,0 +1,10 @@
+Função de custo
+
+Este laboratório opcional mostrará a você como a função de custo é implementada no código. E, com um pequeno conjunto de treinamento e diferentes opções de parâmetros, você poderá ver como o custo varia de acordo com a adequação do modelo aos dados. 
+
+No laboratório opcional, você também poderá brincar com um gráfico de contorno interativo.  Use o cursor do mouse para clicar em qualquer lugar do gráfico de contorno e verá a linha reta definida pelos valores que você escolheu para os parâmetros w e b.
+
+Por fim, o laboratório opcional também tem um gráfico de superfície 3D que o senhor pode girar manualmente, usando o cursor do mouse, para ver melhor como é a função de custo.
+
+
+00_course_folder/ml_intro/class_01/Laboratórios/C1_W1_Lab03_Cost_function_Soln.ipynb

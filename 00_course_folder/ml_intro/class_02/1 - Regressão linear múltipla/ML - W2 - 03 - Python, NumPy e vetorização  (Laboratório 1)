@@ -1,0 +1,7 @@
+Python, NumPy e vetorização
+
+Este laboratório opcional mostrará como usar o NumPy para implementar as operações matemáticas de criação de vetores e matrizes, além de realizar produtos escalares e multiplicações de matrizes no código.  Essas operações do NumPy usam a vetorização nos bastidores para acelerar a execução do código!
+
+Este laboratório apresenta uma quantidade razoável de sintaxe numpy nova, portanto, não se preocupe em entender tudo isso imediatamente.  Mas você pode salvar este notebook e usá-lo como referência quando estiver trabalhando com dados armazenados em matrizes numpy.
+
+00_course_folder/ml_intro/class_02/Laboratórios/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb
