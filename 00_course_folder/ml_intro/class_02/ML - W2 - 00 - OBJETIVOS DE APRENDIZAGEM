@@ -1,0 +1,6 @@
+Nesta semana, você ampliará a regressão linear para lidar com vários recursos de entrada. Você também aprenderá alguns métodos para melhorar o treinamento e o desempenho do modelo, como vetorização, dimensionamento de recursos, engenharia de recursos e regressão polinomial. No final da semana, poderá praticar a implementação da regressão linear no código.
+
+Objetivos de aprendizagem
+	Use a vetorização para implementar a regressão linear múltipla
+	Use o escalonamento de recursos, a engenharia de recursos e a regressão polinomial para aprimorar o treinamento de modelos
+	Implementar a regressão linear no código

@@ -1,0 +1,7 @@
+Regressão linear com o scikit-learn
+
+Este laboratório opcional mostra como usar um kit de ferramentas de código aberto popular que implementa a regressão linear. O Scikit learn é uma biblioteca de aprendizado de máquina de código aberto muito usada por muitos profissionais em muitas das principais empresas de IA, Internet e aprendizado de máquina do mundo.
+
+Portanto, se agora ou no futuro o senhor estiver usando o aprendizado de máquina em seu trabalho, há uma grande chance de que use ferramentas como o Scikit learn para treinar seus modelos. 
+
+00_course_folder/ml_intro/class_02/Laboratórios/C1_W2_Lab05_Sklearn_GD_Soln.ipynb

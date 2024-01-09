@@ -1,0 +1,5 @@
+Dimensionamento de recursos e taxa de aprendizado
+
+Neste laboratório opcional, você também pode ver como o dimensionamento de recursos é feito no código e também como diferentes escolhas da taxa de aprendizado alfa podem levar a um treinamento melhor ou pior do seu modelo.  Isso o ajudará a ter uma intuição mais profunda sobre o dimensionamento de recursos e a taxa de aprendizado alfa.
+
+00_course_folder/ml_intro/class_02/Laboratórios/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb

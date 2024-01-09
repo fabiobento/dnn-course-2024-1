@@ -1,0 +1,6 @@
+Nesta semana, você aprenderá o outro tipo de aprendizado supervisionado, a classificação. Aprenderá a prever categorias usando o modelo de regressão logística. Você entenderá também sobre o problema do ajuste excessivo e como lidar com esse problema com um método chamado regularização. No final desta semana, poderá praticar a implementação da regressão logística com regularização!
+
+Objetivos de aprendizagem
+	Use a regressão logística para classificação binária
+	Implementar a regressão logística para classificação binária
+	Abordar o overfitting usando regularização para melhorar o desempenho do modelo

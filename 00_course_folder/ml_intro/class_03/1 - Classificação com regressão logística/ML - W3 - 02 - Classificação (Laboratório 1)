@@ -1,0 +1,5 @@
+Classificação
+
+Neste laboratório opcional, você verá o que acontece quando se tenta usar a regressão linear para classificação de dados categóricos.  O senhor pode ver um gráfico interativo que tenta classificar duas categorias.  O senhor pode notar que isso não funciona muito bem, o que não tem problema, pois isso motiva a necessidade de um modelo diferente para realizar tarefas de classificação.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab01_Classification_Soln.ipynb
