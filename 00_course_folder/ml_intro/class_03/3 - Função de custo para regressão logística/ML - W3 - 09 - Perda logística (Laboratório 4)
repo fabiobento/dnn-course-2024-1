@@ -1,0 +1,7 @@
+Perda logística
+
+Neste laboratório opcional, o senhor verá como o custo do erro quadrático não funciona muito bem para classificação, pois verá um gráfico de superfície de custo muito ondulado com muitos mínimos locais.
+
+Em seguida, você verá a nova função de perda logística e verá que ela produz um gráfico de superfície agradável e suave que não tem vários mínimos locais.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab04_LogisticLoss_Soln.ipynb

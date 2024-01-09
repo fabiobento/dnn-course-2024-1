@@ -1,0 +1,7 @@
+Função de custo para regressão logística
+
+Este laboratório opcional mostrará ao senhor como a função de custo logístico é implementada no código.  O senhor poderá implementá-la mais tarde no laboratório prático no final da semana.
+
+Este laboratório opcional também mostra como duas escolhas diferentes de parâmetros resultam em cálculos de custo diferentes.  Assim, o senhor pode ver em um gráfico que o limite de decisão mais adequado tem um custo menor em relação a outra opção de limite de decisão.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab05_Cost_Function_Soln.ipynb

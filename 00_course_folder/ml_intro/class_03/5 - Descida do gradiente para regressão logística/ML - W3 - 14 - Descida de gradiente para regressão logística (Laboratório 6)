@@ -1,0 +1,7 @@
+Descida de gradiente para regressão logística
+
+Neste laboratório opcional, o senhor verá como o gradiente do custo logístico é calculado no código.  Essa análise será útil porque o senhor a implementará no laboratório prático no final da semana.
+
+Depois que o senhor executar a descida de gradiente no laboratório, haverá um bom conjunto de gráficos animados que mostram a descida de gradiente em ação. O senhor verá a função sigmoide, o gráfico de contorno do custo, o gráfico de superfície 3D do custo e a curva de aprendizado evoluírem à medida que o gradient descent for executado.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab06_Gradient_Descent_Soln.ipynb
