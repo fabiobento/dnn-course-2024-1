@@ -1,0 +1,7 @@
+Regularização
+
+Neste último laboratório opcional da semana 3, você revisitará o overfitting e, nesse gráfico interativo, poderá optar por regularizar seus modelos, tanto de regressão quanto de classificação, ativando a regularização durante a descida do gradiente, selecionando um valor para lambda.
+
+Dê uma olhada no código para implementar a regressão logística regularizada em particular, pois o senhor implementará isso no laboratório prático no final desta semana.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab09_Regularization_Soln.ipynb

@@ -1,0 +1,7 @@
+Overfitting
+
+Neste laboratório opcional, você verá alguns exemplos de ajuste excessivo que podem ser ajustados clicando nas opções do gráfico.  No laboratório, você poderá adicionar seus próprios pontos de dados clicando no gráfico e ver como isso altera a curva ajustada.
+
+O senhor pode experimentar exemplos de regressão e classificação, além de alterar o grau do polinômio para ver como a curva se ajusta excessivamente ou não aos dados.
+
+00_course_folder/ml_intro/class_03/Laboratórios/C1_W3_Lab08_Overfitting_Soln.ipynb
