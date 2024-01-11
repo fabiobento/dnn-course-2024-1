@@ -41,6 +41,8 @@ noop.txt
 **/saved_model/**
 
 
+00_course_folder/**/DESCRIÇÃO DO CURSO**
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source

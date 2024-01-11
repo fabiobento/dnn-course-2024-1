@@ -1,0 +1,13 @@
+Nesta semana, você aprenderá sobre redes neurais e como usá-las para tarefas de classificação. Usará a estrutura do TensorFlow para criar uma rede neural com apenas algumas linhas de código. Em seguida, se aprofundará aprendendo a codificar sua própria rede neural em Python, "do zero". Opcionalmente, pode saber mais sobre como os cálculos da rede neural são implementados de forma eficiente usando o processamento paralelo (vetorização).
+
+
+Objetivos de aprendizagem
+	Familiarizar-se com o diagrama e os componentes de uma rede neural
+	Compreender o conceito de "camada" em uma rede neural
+	Entenda como as redes neurais aprendem novos recursos.
+	Entenda como as ativações são calculadas em cada camada.
+	Saiba como uma rede neural pode realizar a classificação em uma imagem.
+	Use uma estrutura, TensorFlow, para criar uma rede neural para classificação de uma imagem.
+	Saiba como os dados entram e saem de uma camada de rede neural no TensorFlow
+	Construir uma rede neural em código Python regular (do zero) para fazer previsões.
+	(Opcional): Saiba como as redes neurais usam o processamento paralelo (vetorização) para tornar os cálculos mais rápidos.
