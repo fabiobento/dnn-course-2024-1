@@ -1,0 +1,13 @@
+Nesta semana, o senhor aprenderá a treinar seu modelo no TensorFlow e também conhecerá outras funções de ativação importantes (além da função sigmoide) e onde usar cada tipo em uma rede neural. O senhor também aprenderá a ir além da classificação binária para a classificação multiclasse (3 ou mais categorias). A classificação multiclasse apresentará ao senhor uma nova função de ativação e uma nova função de perda. Opcionalmente, o senhor também pode aprender sobre a diferença entre a classificação multiclasse e a classificação com vários rótulos. O senhor aprenderá sobre o otimizador Adam e por que ele é uma melhoria em relação à descida de gradiente regular para o treinamento de redes neurais. Por fim, o senhor terá uma breve introdução a outros tipos de camadas além da que viu até agora.
+
+
+Objetivos de aprendizagem
+	Treinar uma rede neural em dados usando o TensorFlow
+	Compreender a diferença entre várias funções de ativação (sigmoide, ReLU e linear)
+	Compreender quais funções de ativação devem ser usadas para cada tipo de camada
+	Entenda por que precisamos de funções de ativação não lineares
+	Compreender a classificação multiclasse
+	Calcular a ativação do softmax para implementar a classificação multiclasse
+	Usar a função de perda de entropia cruzada categórica para classificação multiclasse
+	Use o método recomendado para implementar a classificação multiclasse no código
+	(Opcional): Explique a diferença entre classificação multirrótulo e multiclasse
