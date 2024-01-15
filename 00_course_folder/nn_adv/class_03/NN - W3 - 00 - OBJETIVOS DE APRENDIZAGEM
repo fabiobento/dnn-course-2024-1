@@ -1,0 +1,16 @@
+Nesta semana, você aprenderá as práticas recomendadas para treinar e avaliar seus algoritmos de aprendizagem para melhorar o desempenho. Isso abrangerá uma ampla gama de conselhos úteis sobre o ciclo de vida do aprendizado de máquina, o ajuste do modelo e também o aprimoramento dos dados de treinamento.
+
+
+Objetivos de aprendizagem
+	Avaliar e, em seguida, modificar seu algoritmo de aprendizado ou dados para melhorar o desempenho do modelo
+	Avalie seu algoritmo de aprendizado usando validação cruzada e conjuntos de dados de teste.
+	Diagnosticar a tendência e a variação em seu algoritmo de aprendizado
+	Use a regularização para ajustar o viés e a variação em seu algoritmo de aprendizado
+	Identificar um nível básico de desempenho para seu algoritmo de aprendizagem
+	Compreender como a tendência e a variação se aplicam às redes neurais
+	Saiba mais sobre o loop iterativo do desenvolvimento de aprendizado de máquina usado para atualizar e aprimorar um modelo de aprendizado de máquina
+	Aprenda a usar a análise de erros para identificar os tipos de erros que um algoritmo de aprendizagem está cometendo
+	Saiba como adicionar mais dados de treinamento para aprimorar seu modelo, incluindo aumento e síntese de dados
+	Use a aprendizagem por transferência para melhorar o desempenho de seu modelo.
+	Aprenda a incluir justiça e ética no desenvolvimento de seu modelo de aprendizado de máquina
+	Medir a precisão e a recuperação para trabalhar com conjuntos de dados distorcidos (desequilibrados)	

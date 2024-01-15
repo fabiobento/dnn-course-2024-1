@@ -1,0 +1,1 @@
+Bem-vindo a esta terceira tarefa do curso 2. Neste laboratório, o senhor conhecerá técnicas para avaliar e aprimorar seus modelos de aprendizado de máquina. O senhor descobrirá como a divisão do conjunto de dados pode fornecer informações sobre o desempenho do modelo em um ambiente de produção e orientações sobre como aprimorá-lo.

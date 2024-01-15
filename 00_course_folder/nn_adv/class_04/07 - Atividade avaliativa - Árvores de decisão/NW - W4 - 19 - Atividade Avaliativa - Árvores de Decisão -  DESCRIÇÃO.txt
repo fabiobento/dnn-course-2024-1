@@ -1,0 +1,1 @@
+Bem-vindo ao último laboratório prático deste curso. Neste exercício, o senhor implementará uma árvore de decisão do zero e a aplicará à tarefa de classificar se um cogumelo é comestível ou venenoso

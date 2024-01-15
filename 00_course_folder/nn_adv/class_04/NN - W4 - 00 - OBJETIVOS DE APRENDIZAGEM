@@ -1,0 +1,9 @@
+Nesta semana, você aprenderá sobre um algoritmo de aprendizado prático e muito usado, a árvore de decisão. Também aprenderá sobre variações da árvore de decisão, incluindo florestas aleatórias e árvores impulsionadas (XGBoost).
+
+
+Objetivos de aprendizagem
+	Veja como é uma árvore de decisão e como ela pode ser usada para fazer previsões
+	Saiba como uma árvore de decisão aprende com os dados de treinamento
+	Aprenda a métrica de "impureza" "entropia" e como ela é usada na construção de uma árvore de decisão
+	Aprender a usar várias árvores, "conjuntos de árvores", como florestas aleatórias e árvores impulsionadas
+	Saiba quando usar árvores de decisão ou redes neurais
