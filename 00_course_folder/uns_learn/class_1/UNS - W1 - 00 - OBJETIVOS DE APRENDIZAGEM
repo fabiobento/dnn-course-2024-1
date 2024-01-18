@@ -1,0 +1,11 @@
+Nesta semana, você aprenderá dois algoritmos importantes de aprendizagem não supervisionada: clustering e detecção de anomalias
+
+Objetivos de aprendizagem
+	Implementar o algoritmo de agrupamento k-means
+	Implementar o objetivo de otimização do k-means
+	Inicializar o algoritmo k-means
+	Escolha o número de clusters para o algoritmo k-means
+	Implementar um sistema de detecção de anomalias
+	Decidir quando usar o aprendizado supervisionado em vez da detecção de anomalias
+	Implementar a função de atualização do centroide no k-means
+	Implemente a função que encontra os centroides mais próximos de cada ponto no k-means
