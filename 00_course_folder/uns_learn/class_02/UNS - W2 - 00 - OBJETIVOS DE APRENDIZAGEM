@@ -1,0 +1,6 @@
+Nesta semana, você aprenderá dois algoritmos importantes de aprendizagem não supervisionada: clustering e detecção de anomalias
+
+Objetivos de aprendizagem
+	Implementar sistemas de recomendação de filtragem colaborativa no TensorFlow
+	Implementar filtragem baseada em conteúdo de aprendizagem profunda usando uma rede neural no TensorFlow
+	Compreender as considerações éticas na criação de sistemas de recomendação
