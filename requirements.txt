@@ -13,6 +13,6 @@ natsort
 pydot
 ipympl
 sympy
-
-
+bokeh
+plotly
 
