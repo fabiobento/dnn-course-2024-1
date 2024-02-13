@@ -16,6 +16,7 @@ core
 *.npy
 *.csv
 *.ods
+*.odp
 *.pkl
 *.p
 *.npz

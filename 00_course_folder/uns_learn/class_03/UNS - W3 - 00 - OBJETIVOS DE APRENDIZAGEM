@@ -1,0 +1,8 @@
+Nesta semana, você aprenderá sobre o aprendizado por reforço e criará uma rede neural de aprendizado Q profundo para pousar um módulo de pouso lunar virtual em Marte!
+
+Objetivos de aprendizagem
+	Compreender os principais termos, como retorno, estado, ação e política, conforme se aplicam ao aprendizado por reforço
+	Compreender as equações de Bellman
+	Compreender a função de valor da ação de estado
+	Compreender os espaços de estados contínuos
+	Criar uma rede profunda de Q-learning
