@@ -324,7 +324,9 @@ def plt_contour_wgrad(
     ax.clabel(CS, inline=1, fmt="%1.0f", fontsize=10)
     ax.set_xlabel("w")
     ax.set_ylabel("b")
-    ax.set_title("Contour plot of cost J(w,b), vs b,w with path of gradient descent")
+    ax.set_title(
+        "Gráfico do contorno do custo J(w,b), vs b,w with com o caminho do gradiente descendente"
+    )
     w = w_final
     b = b_final
     ax.hlines(b, ax.get_xlim()[0], w, lw=2, color=dlpurple, ls="dotted")
@@ -361,7 +363,7 @@ def plt_divergence(p_hist, J_hist, x_train, y_train):
     fig = plt.figure(figsize=(12, 5))
     plt.subplots_adjust(wspace=0)
     gs = fig.add_gridspec(1, 5)
-    fig.suptitle(f"Cost escalates when learning rate is too large")
+    fig.suptitle(f"Custo escala quando a taxa de aprendizado é muito alta")
     # ===============
     #  First subplot
     # ===============
@@ -380,8 +382,8 @@ def plt_divergence(p_hist, J_hist, x_train, y_train):
 
     ax.plot(w_array, cost)
     ax.plot(x, v, c=dlmagenta)
-    ax.set_title("Cost vs w, b set to 100")
-    ax.set_ylabel("Cost")
+    ax.set_title("Custo vs w, b definido como 100")
+    ax.set_ylabel("Custo")
     ax.set_xlabel("w")
     ax.xaxis.set_major_locator(MaxNLocator(2))
 
@@ -405,7 +407,7 @@ def plt_divergence(p_hist, J_hist, x_train, y_train):
     ax.set_xlabel("w", fontsize=16)
     ax.set_ylabel("b", fontsize=16)
     ax.set_zlabel("\ncost", fontsize=16)
-    plt.title("Cost vs (b, w)")
+    plt.title("Custo vs (b, w)")
     # Customize the view angle
     ax.view_init(elev=20.0, azim=-65)
     ax.plot(x, y, v, c=dlmagenta)
@@ -450,8 +452,8 @@ def plt_gradients(x_train, y_train, f_compute_cost, f_compute_gradient):
         tmp_w = w_array[i]
         cost[i] = f_compute_cost(x_train, y_train, tmp_w, fix_b)
     ax[0].plot(w_array, cost, linewidth=1)
-    ax[0].set_title("Cost vs w, with gradient; b set to 100")
-    ax[0].set_ylabel("Cost")
+    ax[0].set_title("Custo vs w, com gradiente; b definido como 100")
+    ax[0].set_ylabel("Custo")
     ax[0].set_xlabel("w")
 
     # plot lines for fixed b=100
@@ -478,7 +480,7 @@ def plt_gradients(x_train, y_train, f_compute_cost, f_compute_gradient):
     n = -2
     color_array = np.sqrt(((V - n) / 2) ** 2 + ((U - n) / 2) ** 2)
 
-    ax[1].set_title("Gradient shown in quiver plot")
+    ax[1].set_title("Gradiente mostrado no gráfico quiver")
     Q = ax[1].quiver(
         X,
         Y,
