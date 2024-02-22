@@ -23,7 +23,7 @@ core
 noop.txt
 *.npy
 *.tsv
-
+*.txt
 # Gabaritos
 ############
 *Atividade_Avaliativa - Resposta.ipynb
