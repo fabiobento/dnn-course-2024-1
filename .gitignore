@@ -23,6 +23,7 @@ core
 noop.txt
 *.npy
 *.tsv
+**/.txt
 *.txt
 # Gabaritos
 ############
