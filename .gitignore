@@ -11,7 +11,7 @@ core
 *.xcf
 *.tif
 *.jpg
-*.png
+#*.png
 *.h5
 *.npy
 *.csv
