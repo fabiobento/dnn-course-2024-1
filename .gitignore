@@ -23,8 +23,9 @@ core
 noop.txt
 *.npy
 *.tsv
-**/.txt
+00_course_folder/**/**/**.txt
 *.txt
+.gitignore
 # Gabaritos
 ############
 *Atividade_Avaliativa - Resposta.ipynb
