@@ -652,7 +652,7 @@ def run_gradient_descent_feng(X, y, iterations=1000, alpha=1e-6):
         alpha,
         iterations,
     )
-    print(f"w,b found by gradient descent: w: {w_out}, b: {b_out:0.4f}")
+    print(f"w,b encontrado pelo gradiente descendente: w: {w_out}, b: {b_out:0.4f}")
 
     return (w_out, b_out)
 
@@ -716,7 +716,7 @@ def gradient_descent(
         if i % math.ceil(num_iters / 10) == 0:
             # print(f"Iteration {i:4d}: Cost {cost_function(X, y, w, b):8.2f}   ")
             cst = cost_function(X, y, w, b)
-            print(f"Iteration {i:9d}, Cost: {cst:0.5e}")
+            print(f"Iteração {i:9d}, Custo: {cst:0.5e}")
     return w, b, hist  # return w,b and history for graphing
 
 
