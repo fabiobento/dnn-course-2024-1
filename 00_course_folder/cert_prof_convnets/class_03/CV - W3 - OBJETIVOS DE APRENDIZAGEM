@@ -1,0 +1,7 @@
+riar modelos para o senhor é ótimo e pode ser muito eficiente. Mas, como o senhor viu, pode ser limitado pelos dados que tem em mãos. Nem todo mundo tem acesso a grandes conjuntos de dados ou ao poder de computação necessário para treiná-los com eficiência. A aprendizagem por transferência pode ajudar a resolver esse problema, pois pessoas com modelos treinados em grandes conjuntos de dados os treinam para que o senhor possa usá-los diretamente ou usar os recursos que eles aprenderam e aplicá-los ao seu cenário. Isso é aprendizagem por transferência, e o senhor verá isso esta semana!
+Objetivos de aprendizagem
+Dominar o tipo de camada do keras conhecido como dropout para evitar o overfitting
+Obtenha a aprendizagem por transferência no código usando a API do keras
+Codifique um modelo que implemente a API funcional do Keras em vez do modelo sequencial comumente usado
+Saiba como congelar camadas de um modelo existente para implementar com sucesso a aprendizagem por transferência
+Explorar o conceito de transferência de aprendizagem para usar as convoluções aprendidas por um modelo diferente em um conjunto de dados maior

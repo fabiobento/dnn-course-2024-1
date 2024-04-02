@@ -1,0 +1,5 @@
+Bem-vindo à semana 3! Na semana 2, o senhor viu uma rede neural básica para visão computacional. Ela fez o trabalho muito bem, mas foi um pouco ingênua em sua abordagem. Nesta semana, veremos como melhorá-la, conforme discutido por Laurence e Andrew aqui.
+Objetivos de aprendizagem
+Usar funções de retorno de chamada para interromper o treinamento após atingir um limite de precisão
+Teste o efeito da adição de convolução e MaxPooling à rede neural para classificar imagens do Fashion MNIST na precisão da classificação
+Explicar e visualizar como a convolução e o MaxPooling ajudam nas tarefas de classificação de imagens

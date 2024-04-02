@@ -1,0 +1,8 @@
+Nesta semana, o senhor terá uma visão geral de alguns modelos populares de detecção de objetos, como o regional-CNN e o ResNet-50. O senhor usará modelos de detecção de objetos que recuperará do TensorFlow Hub, baixará seus próprios modelos e os configurará para treinamento, além de criar seus próprios modelos para detecção de objetos. Ao usar a aprendizagem por transferência, o senhor treinará um modelo para detectar e localizar patinhos de borracha usando apenas cinco exemplos de treinamento. O senhor também poderá rotular manualmente suas próprias imagens de patinhos de borracha!
+Objetivos de aprendizagem
+Obtenha uma visão geral conceitual da Regional CNN (R-CNN), da Fast-RCNN e da Faster R-CNN.
+Recupere o modelo R-CNN do hub do TensorFlow e use-o para realizar a detecção de objetos.
+Use a API de detecção de objetos do TensorFlow para visualizar as caixas delimitadoras previstas de um modelo de detecção de objetos
+Vá além dos modelos no TensorFlow Hub: Carregue e configure um modelo Resnet-50 que não esteja no TensorFlow Hub, restaure pesos pré-treinados e selecione as partes do modelo a serem retreinadas.
+Use a API de detecção de objetos para anotar manualmente as imagens para detecção de objetos
+Implemente um loop de treinamento personalizado para fazer o ajuste fino de um modelo usando apenas 5 exemplos de treinamento.

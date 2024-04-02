@@ -1,0 +1,10 @@
+Nesta semana, vamos falar sobre a segmentação de imagens usando variações da rede neural totalmente convolucional. Com essas redes, o senhor pode atribuir rótulos de classe a cada pixel e realizar uma identificação muito mais detalhada dos objetos em comparação com as caixas delimitadoras. Nesta semana, o senhor criará a rede neural totalmente convolucional, a U-Net e a Mask R-CNN para identificar e detectar números, animais de estimação e até zumbis!
+Objetivos de aprendizagem
+Descrever o projeto conceitual das redes neurais totalmente convolucionais e os modelos subsequentes baseados nelas
+Descreva a seção do decodificador da rede neural totalmente convolucional
+Descreva dois métodos de upsampling: escalonamento simples e convoluções transpostas
+Construir as seções do codificador e do decodificador de uma rede neural totalmente convolucional
+Avaliar o desempenho de um modelo de segmentação usando a interseção sobre a união e a pontuação Dice
+Descrever o projeto conceitual do modelo U-Net
+Criar um modelo U-Net para segmentação de imagens
+Use o Mask R-CNN para realizar a segmentação da instância

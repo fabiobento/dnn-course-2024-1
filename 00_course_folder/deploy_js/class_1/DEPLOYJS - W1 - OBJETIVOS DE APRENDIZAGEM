@@ -1,0 +1,6 @@
+Bem-vindo a Modelos baseados em navegador com TensorFlow.js, o primeiro curso da Especialização em TensorFlow para dados e implantação. Neste primeiro curso, veremos como treinar modelos de aprendizado de máquina no navegador e como usá-los para realizar inferência usando JavaScript. Isso permitirá que o senhor use o aprendizado de máquina diretamente no navegador, bem como em servidores de back-end como o Node.js. Na primeira semana do curso, criaremos alguns modelos básicos usando JavaScript e os executaremos em páginas da Web simples.
+Objetivos de aprendizagem
+Use o TensorFlow.js para criar e treinar modelos simples de aprendizado de máquina em JavaScript
+Descrever as principais características da codificação one-hot
+Use o TensorFlow.js para carregar dados de um arquivo CSV
+Use o Web Server for Chrome para servir páginas da Web de uma pasta local pela rede usando HTTP.

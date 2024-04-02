@@ -1,0 +1,5 @@
+Na semana passada, o senhor viu como melhorar os resultados da sua rede neural profunda usando convoluções. Foi um bom começo, mas os dados que o senhor usou eram muito básicos. O que acontece quando as imagens são maiores ou se os recursos não estão sempre no mesmo lugar? Andrew e Laurence discutem isso para prepará-lo para o que o senhor aprenderá esta semana: lidar com imagens complexas!
+Objetivos de aprendizagem
+Reflita sobre as possíveis deficiências da implementação de seu modelo de classificação binária
+Executar o pré-processamento de imagens com a funcionalidade Keras ImageDataGenerator
+Realizar a classificação de imagens da vida real utilizando uma rede neural multicamada para classificação binária

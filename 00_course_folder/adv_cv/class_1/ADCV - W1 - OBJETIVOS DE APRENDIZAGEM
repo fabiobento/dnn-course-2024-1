@@ -1,0 +1,9 @@
+Obtenha uma visão geral conceitual da classificação de imagens, localização de objetos, detecção de objetos e segmentação de imagens. O senhor também poderá descrever a classificação com vários rótulos e distinguir entre segmentação semântica e segmentação de instância. No restante do curso, o senhor aplicará o TensorFlow para criar modelos de detecção de objetos e segmentação de imagens.
+Objetivos de aprendizagem
+Distinguir entre localização e detecção de objetos
+Distinguir entre detecção de objetos e segmentação de imagens
+Distinguir entre segmentação semântica e segmentação de instância
+Explicar o que é aprendizagem por transferência e por que ela é usada
+Descrever as opções de design ao usar a aprendizagem por transferência
+Implementar a localização de objetos com uma CNN
+Implementar um classificador de imagens com aprendizagem por transferência

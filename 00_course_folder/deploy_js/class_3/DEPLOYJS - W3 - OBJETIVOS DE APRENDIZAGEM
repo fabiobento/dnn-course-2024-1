@@ -1,0 +1,5 @@
+Nesta semana, veremos como pegar modelos criados com o TensorFlow em Python e convertê-los no formato JSON para que possam ser executados no navegador usando Javascript. Começaremos analisando dois modelos que já foram pré-convertidos. Um deles será um classificador de toxicidade, que usa a NLP para determinar se uma frase é tóxica em várias categorias; o outro é o Mobilenet, que pode ser usado para detectar conteúdo em imagens. Ao final deste módulo, o senhor treinará um modelo em Python e o converterá para o formato JSON usando o conversor tensorflow.js.
+Objetivos de aprendizagem
+Use o conversor tensorflow.js para converter um modelo Keras para o formato JSON
+Use um modelo de toxicidade para determinar se uma frase é tóxica em várias categorias
+Use o Mobilenet para detectar objetos em imagens

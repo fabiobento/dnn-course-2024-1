@@ -1,0 +1,6 @@
+O senhor percorreu um longo caminho, parabéns! Há mais uma coisa a fazer antes de passarmos das ConvNets para o próximo módulo: ir além da classificação binária. Cada um dos exemplos que o senhor fez até agora envolveu a classificação de uma coisa ou outra: cavalo ou humano, gato ou cachorro. Ao passar da classificação binária para a classificação categórica, há algumas considerações de codificação que o senhor precisa levar em conta. O senhor as verá nesta semana!
+Objetivos de aprendizagem
+Criar um classificador multiclasse para o conjunto de dados MNIST de linguagem de sinais
+Saiba como configurar corretamente os parâmetros do ImageDataGenerator e as funções de definição de modelo para classificação multiclasse
+Compreender a diferença entre usar arquivos de imagem reais e imagens codificadas em outros formatos e como isso altera os métodos disponíveis ao usar o ImageDataGenerator
+Codifique uma função auxiliar para analisar um arquivo CSV bruto que contém as informações dos valores de pixel para as imagens usadas

@@ -1,0 +1,7 @@
+Nesta semana, o senhor aprenderá sobre a importância da interpretabilidade do modelo, que é a compreensão de como o modelo chega às suas decisões. O senhor também implementará mapas de ativação de classe, mapas de saliência e mapas de ativação de classe ponderados por gradiente para identificar quais partes de uma imagem estão sendo usadas pelo modelo para fazer suas previsões. O senhor também verá um exemplo de como a visualização das ativações da camada intermediária de um modelo pode ajudar a aprimorar o projeto de uma rede famosa, a AlexNet.
+Objetivos de aprendizagem
+Explicar por que a interpretação do modelo é importante
+Calcule mapas de ativação de classe para visualizar as partes da imagem que um modelo usa para fazer suas previsões.
+Calcular mapas de saliência para visualizar as partes da imagem que um modelo usa para fazer suas previsões.
+Implementar o Gradient-weighted Class Activation Mapping (GradCAM) para identificar partes da imagem que são importantes para as previsões de um modelo.
+Descrever como a visualização pode ajudar a aprimorar o design de um modelo

@@ -1,0 +1,5 @@
+Um último tipo de trabalho de que o senhor precisará ao criar aplicativos com aprendizado de máquina no navegador é entender como funciona o aprendizado por transferência. Nesta semana, o senhor criará um site completo que usa o TensorFlow.js, capturando dados da câmera da Web e treinando novamente o mobilenet para reconhecer gestos de Pedra, Papel e Tesoura.
+Objetivos de aprendizagem
+Treine um modelo em seu navegador da Web usando imagens capturadas por uma webcam
+Aplicar a aprendizagem por transferência para treinar um modelo para reconhecer gestos manuais de pedra, papel e tesoura
+Aplicar a aprendizagem por transferência para treinar um modelo para reconhecer gestos manuais de pedra, papel, tesoura, lagarto e spock

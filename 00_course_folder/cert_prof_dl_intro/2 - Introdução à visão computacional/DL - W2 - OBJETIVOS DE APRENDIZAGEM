@@ -1,0 +1,6 @@
+Bem-vindo à segunda semana do curso! Na semana 1, o senhor aprendeu tudo sobre como a aprendizagem automática e a aprendizagem profunda são um novo paradigma de programação. Nesta semana, os senhores levarão isso para o próximo nível, começando a resolver problemas de visão computacional com apenas algumas linhas de código! Confira esta conversa entre Laurence e Andrew, onde eles discutem o assunto e apresentam a Visão Computacional aos senhores!
+Objetivos de aprendizagem
+Use funções de retorno de chamada para rastrear a perda e a precisão do modelo durante o treinamento
+Fazer previsões sobre como o tamanho da camada afeta as previsões da rede e a velocidade de treinamento
+Implementar a normalização do valor do pixel para acelerar o treinamento da rede
+Criar uma rede neural de múltiplas camadas para classificar o conjunto de dados de imagens MNIST de moda

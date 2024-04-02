@@ -42,9 +42,16 @@ noop.txt
 # Modelos salvos
 ############
 **/saved_model/**
-
-
+# alguns pdfs
 00_course_folder/**/DESCRIÇÃO DO CURSO**
+00_course_folder/Certificado Profissional Desenvolvedor do TensorFlow para DeepLearning.pdf
+00_course_folder/cert_prof_dl_intro/* - */**.pdf
+00_course_folder/cert_prof_dl_intro/* - */* - */**.pdf
+00_course_folder/cert_prof_convnets/class_**/* - *.pdf
+00_course_folder/cert_prof_convnets/class_**/* - */**.pdf
+00_course_folder/cert_prof_nlp_intro/week_**/* - *.pdf
+00_course_folder/cert_prof_nlp_intro/week_**/* - */**.pdf
+
 
 # Packages #
 ############
@@ -255,4 +262,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 

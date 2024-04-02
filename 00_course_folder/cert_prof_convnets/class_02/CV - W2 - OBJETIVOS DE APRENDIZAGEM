@@ -1,0 +1,6 @@
+O senhor já ouviu o termo overfitting várias vezes até este ponto. Overfitting é simplesmente o conceito de excesso de especialização no treinamento, ou seja, seu modelo é muito bom em classificar aquilo para o qual foi treinado, mas não é tão bom em classificar coisas que ele nunca viu. Para generalizar o modelo de forma mais eficaz, o senhor precisará, é claro, de uma variedade maior de amostras para treiná-lo. Isso nem sempre é possível, mas o modelo é muito bom para classificar coisas que ele nunca viu. Isso nem sempre é possível, mas um bom atalho potencial para isso é o Image Augmentation, em que o senhor ajusta o conjunto de treinamento para aumentar potencialmente a diversidade de assuntos que ele abrange. O senhor aprenderá tudo sobre isso nesta semana!
+Objetivos de aprendizagem
+Reconhecer o impacto da adição de aumento de imagem ao processo de treinamento, especialmente no tempo
+Demonstre o excesso de ajuste ou a falta de ajuste traçando a precisão do treinamento e da validação
+Familiarizar-se com os parâmetros do ImageDataGenerator usados para realizar o aumento de imagem
+Saiba como atenuar o overfitting usando técnicas de aumento de dados

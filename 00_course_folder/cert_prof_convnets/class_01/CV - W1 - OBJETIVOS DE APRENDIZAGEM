@@ -1,0 +1,6 @@
+No primeiro curso desta especialização, você teve uma introdução ao TensorFlow e como, com suas APIs de alto nível, poderia fazer a classificação básica de imagens, além de aprender um pouco sobre as redes neurais convolucionais (ConvNets). Neste curso, você se aprofundará no uso de ConvNets com dados do mundo real e aprenderá sobre técnicas que podem ser usadas para melhorar o desempenho da ConvNet, especialmente ao fazer a classificação de imagens! Na Semana 1, esta semana, você começará analisando um conjunto de dados muito maior do que o que tem usado até agora: O conjunto de dados Cats and Dogs, que foi um desafio do Kaggle na classificação de imagens!
+Objetivos de aprendizagem
+Obter conhecimento sobre os utilitários do Keras para pré-processamento de dados de imagem, em particular a classe ImageDataGenerator
+Desenvolver funções auxiliares para mover os arquivos pelo sistema de arquivos, de modo que eles possam ser alimentados pelo ImageDataGenerator
+Saiba como plotar a precisão do treinamento e da validação para avaliar o desempenho do modelo
+Construir um classificador usando redes neurais convolucionais para realizar a classificação de cães e gatos

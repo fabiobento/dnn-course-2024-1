@@ -1,0 +1,5 @@
+Bem-vindo a este curso sobre como ir do básico ao domínio do TensorFlow. Estamos felizes por o senhor estar aqui! Na Semana 1, o senhor terá uma breve introdução sobre o que é Machine Learning e Deep Learning e como eles oferecem um novo paradigma de programação, proporcionando um novo conjunto de ferramentas para abrir cenários anteriormente inexplorados. Tudo o que o senhor precisa saber são algumas habilidades básicas de programação, e o restante será aprendido ao longo do curso. Para começar, assista ao primeiro vídeo, uma conversa entre Andrew e Laurence que define o tema do que o senhor estudará...
+Objetivos de aprendizagem
+Monitorar a precisão das previsões de preços de moradias
+Analisar as previsões de preços de imóveis provenientes de uma rede neural de camada única
+Use o TensorFlow para criar uma rede neural de camada única para ajustar modelos lineares
