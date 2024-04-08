@@ -24,6 +24,7 @@ noop.txt
 *.npy
 *.tsv
 00_course_folder/**/**/**.txt
+00_course_folder/Deep Learning Specialization
 *.txt
 .gitignore
 # Gabaritos
