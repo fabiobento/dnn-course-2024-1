@@ -25,6 +25,7 @@ noop.txt
 *.tsv
 00_course_folder/**/**/**.txt
 00_course_folder/Deep Learning Specialization
+00_course_folder/cert_prof_convnets/Redes neurais convolucionais no TensorFlow.pdf
 *.txt
 .gitignore
 # Gabaritos
