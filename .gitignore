@@ -17,6 +17,7 @@ core
 #*.csv
 *.ods
 *.odp
+*.odg
 *.pkl
 *.p
 *.npz
