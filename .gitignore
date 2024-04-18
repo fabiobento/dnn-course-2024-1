@@ -13,6 +13,7 @@ core
 *.jpg
 #*.png
 *.h5
+*.odp#
 *.npy
 #*.csv
 *.ods
