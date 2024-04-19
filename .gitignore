@@ -31,6 +31,7 @@ noop.txt
 00_course_folder/cert_prof_convnets/Redes neurais convolucionais no TensorFlow.pdf
 00_course_folder/cert_prof_time_series/class_03/TS - W3 - 06 - Huber loss - Wikipedia.pdf
 00_course_folder/cert_prof_convnets/class_**/cats_and_dogs_filtered**
+00_course_folder/adv_cv/class_1/4 - Pré-requisitos e referências.pdf
 *.txt
 .gitignore
 00_course_folder/cert_prof_convnets/class_01/14 - Atividade Avaliativa/SOLUÇÃO_C2W1_Assignment.ipynb
