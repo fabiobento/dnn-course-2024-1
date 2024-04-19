@@ -6,6 +6,7 @@ datasets/
 output/
 examples/
 references/
+00_course_folder/cert_prof_convnets/class_04/tmp/
 core
 *.pyc
 *.xcf
