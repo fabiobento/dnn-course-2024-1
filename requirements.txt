@@ -15,4 +15,5 @@ ipympl
 sympy
 bokeh
 plotly
+tensorflow_datasets
 
