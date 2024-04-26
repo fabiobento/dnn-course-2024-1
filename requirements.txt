@@ -16,4 +16,5 @@ sympy
 bokeh
 plotly
 tensorflow_datasets
+tensorflow_hub
 
