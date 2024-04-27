@@ -17,5 +17,5 @@ bokeh
 plotly
 tensorflow_datasets
 tensorflow_hub
-pillow==9.5.0
+#pillow==9.5.0
 
