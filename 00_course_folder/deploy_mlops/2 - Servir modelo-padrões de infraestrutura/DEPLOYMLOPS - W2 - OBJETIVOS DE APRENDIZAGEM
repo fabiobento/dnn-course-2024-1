@@ -1,0 +1,7 @@
+Saiba como servir modelos e fornecer resultados de inferência em lote e em tempo real, criando uma infraestrutura dimensionável e confiável
+Objetivos de aprendizagem
+Servir modelos e fornecer resultados de inferência criando uma infraestrutura dimensionável e confiável.
+Comparar o caso de uso da inferência em lote e em tempo real e como otimizar o desempenho e o uso do hardware em cada caso
+Implementar técnicas para executar a inferência em dispositivos de borda e aplicativos executados em um navegador da Web
+Delinear e estruturar seu pipeline de pré-processamento de dados para atender aos seus requisitos de inferência
+Distinguir os requisitos de desempenho e recursos para inferência em lote estática e baseada em fluxo

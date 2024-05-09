@@ -1,0 +1,6 @@
+Saiba como tornar seu modelo de ML disponível para os usuários finais e otimizar o processo de inferência
+Objetivos de aprendizagem
+Identificar e contrastar os desafios para atender às solicitações de inferência
+Comparar métricas de custo, latência e taxa de transferência para otimizar o atendimento de solicitações de inferência
+Avaliar os recursos e requisitos de hardware para seus modelos de serviço, de modo que seu sistema seja confiável e possa ser dimensionado com base na demanda
+Instalar e usar o TensorFlow Serving para atender a solicitações de inferência em um modelo simples de classificação de imagens

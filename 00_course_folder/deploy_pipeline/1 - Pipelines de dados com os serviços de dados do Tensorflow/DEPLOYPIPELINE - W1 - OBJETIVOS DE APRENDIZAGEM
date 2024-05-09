@@ -1,0 +1,7 @@
+Nesta semana, o senhor poderá realizar tarefas eficientes de ETL usando as APIs do Tensorflow Data Services
+Objetivos de aprendizagem
+Trabalhe com conjuntos de dados conhecidos, como MNIST, Horses or Humans e Rock, Paper and Scissors, e execute tarefas de extração e transformação carregando e agrupando esses conjuntos de dados do TensorFlow incorporados
+Analisar os metadados e as informações de cada conjunto de dados
+Criar um pipeline simplificado para o treinamento de modelos
+Reforce seus conhecimentos sobre o TensorFlow Data Services API com o teste prático
+Aplique suas habilidades de criação de pipeline de dados na tarefa, criando um pipeline ETL completo usando a API TFDS e definindo um modelo CNN simples que pode ser treinado posteriormente

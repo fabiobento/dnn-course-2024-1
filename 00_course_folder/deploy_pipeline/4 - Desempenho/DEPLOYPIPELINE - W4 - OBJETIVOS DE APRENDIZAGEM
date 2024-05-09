@@ -1,0 +1,9 @@
+O senhor aprenderá a lidar com a entrada de dados para evitar gargalos, condições de corrida e muito mais!
+Objetivos de aprendizagem
+Identificar gargalos em seus pipelines de entrada
+Aprimore seus pipelines que afetam o treinamento de modelos
+Saiba mais sobre o armazenamento em cache e a paralelização de suas entradas
+Desenvolva sua intuição para usar as práticas recomendadas com o primeiro teste para identificar gargalos nos pipelines de entrada e treinamento e atenuá-los usando cache e paralelização.
+Paralelizar vários estágios dos processos de Extração, Transformação e Carregamento na atribuição, armazenando em cache e pré-busca em vez de apenas carregar ingenuamente os dados do conjunto de dados de cães e gatos para criar um pipeline de treinamento otimizado
+[Opcional] Publique e compartilhe seus próprios conjuntos de dados usando o TensorFlow Hub
+[Opcional] Aprofunde-se na classe DatasetBuilder com o segundo teste, que tem alguns recursos interessantes para configurar e criar sua leitura de conjunto de dados personalizada a ser publicada no TensorFlow Hub

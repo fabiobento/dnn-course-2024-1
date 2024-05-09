@@ -1,0 +1,7 @@
+Nesta semana, o senhor construirá divisões de treinamento/validação/teste de qualquer conjunto de dados - personalizado ou presente na biblioteca de conjuntos de dados do hub do TensorFlow - usando a API Splits
+Objetivos de aprendizagem
+Comparar a operação de fatiamento do Python com a API Splits
+Explorar TFRecords e amostras individuais em um conjunto de dados
+Investigar descritores de características
+Identificar os aplicativos da API Splits para criar divisões personalizadas de conjuntos de dados e examinar TFRecords e descritores de recursos que o ajudam a obter mais informações sobre o conjunto de dados
+Carregue um vetor de recursos pré-treinado e crie divisões personalizadas de conjuntos de treinamento/teste/validação usando a API Splits, que facilita o carregamento de dados para treinamento e avaliação em seu pipeline de ML

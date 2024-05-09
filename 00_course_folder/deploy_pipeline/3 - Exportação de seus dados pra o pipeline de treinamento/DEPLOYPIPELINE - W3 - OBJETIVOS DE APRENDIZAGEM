@@ -1,0 +1,7 @@
+Nesta semana, o senhor ampliará seu conhecimento sobre pipelines de dados
+Objetivos de aprendizagem
+Use diferentes bibliotecas e técnicas para exportar seus dados para novos pipelines de treinamento
+Pratique com pipelines pré-construídos que reduzem significativamente seu tempo de desenvolvimento
+Criar diferentes colunas de recursos usando funções como bucketing, hashing e tokenização
+Compare e contraste os diferentes tipos de dados presentes na classe de dados do TensorFlow com o teste prático e, ao mesmo tempo, elabore mais sobre as operações de dados, como codificação one-hot, bucketing e tokenizing
+Aplique várias operações de dados na tarefa para criar diferentes tipos de colunas de recursos que você vê com frequência em diferentes declarações de problemas de ML, compile e treine-as em um conjunto de dados csv personalizado que é carregado usando a API tf.Data

@@ -1,0 +1,5 @@
+O outro sistema operacional móvel popular é, obviamente, o iOS. Portanto, nesta semana, o senhor realizará tarefas muito semelhantes às da semana passada: aprenderá a pegar modelos e executá-los no iOS. Você precisará de algum conhecimento de programação com Swift para iOS para entender completamente tudo o que vamos fazer, mas, mesmo que não tenha esse conhecimento, acho que o conteúdo desta semana será divertido de explorar e você aprenderá a criar uma variedade de aplicativos de ML que são executados nesse importante sistema operacional!
+Objetivos de aprendizagem
+Entenda como incorporar um modelo TF Lite em aplicativos iOS
+Criar um aplicativo iOS que execute a classificação de imagens
+Criar um aplicativo iOS que execute a detecção de objetos

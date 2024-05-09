@@ -1,0 +1,3 @@
+Agora que o senhor já viu o TensorFlow Lite e explorou a criação de aplicativos no Android e no iOS que o utilizam, a próxima e última etapa é explorar sistemas incorporados, como o Raspberry Pi, e aprender como fazer com que seus modelos sejam executados nele. O bom é que o Pi é um sistema Linux completo, portanto, pode executar Python, permitindo que o senhor use o TensorFlow completo para treinamento e inferência, ou apenas o interpretador para inferência. Eu recomendaria o último, pois o treinamento em um Pi pode ser lento!
+Objetivos de aprendizagem
+Entenda como incorporar um modelo TF Lite ao Raspberry Pi
